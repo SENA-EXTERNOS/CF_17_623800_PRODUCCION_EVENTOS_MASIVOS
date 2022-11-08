@@ -39,7 +39,7 @@
     
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#3_1 3.1. Productos y servicios para eventos
+      h2#3_1 3.1 Productos y servicios para eventos
     .row.mb-2(data-aos="zoom-in")
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-5.m-4
@@ -179,7 +179,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#3_2 3.2. Fijación de precios
+      h2#3_2 3.2 Fijación de precios
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-6.mb-mob
         img(src='@/assets/curso/t3/img-5.png', alt='Intro')
@@ -194,7 +194,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#3_3 3.3. Herramientas y plataformas para el diseño del portafolio
+      h2#3_3 3.3 Herramientas y plataformas para el diseño del portafolio
 
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-9.mb-mob

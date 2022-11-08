@@ -15,7 +15,7 @@
           p.mb-0 Hay elementos que es importante considerar al presentar una propuesta comercial, como lo son el análisis del cliente, el mercado, la competencia (competidores) y los aspectos legales y tributarios.
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#4_1 4.1. Estructura y componentes  
+      h2#4_1 4.1 Estructura y componentes  
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-7
         .cajon.color-acento-contenido.p-4.mb-4
@@ -63,7 +63,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#4_2 4.2. Estrategias de información y comunicación aplicadas
+      h2#4_2 4.2 Estrategias de información y comunicación aplicadas
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t4/img-3.png', alt='Intro')

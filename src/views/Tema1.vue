@@ -21,7 +21,7 @@
       h2#1_1 1.1 Perfil del cliente
 
     .row.mb-5(data-aos="zoom-in")
-      .col-sm-12.col-md-2.d-flex.justify-content-center.align-items-center.mb-mob
+      .col-sm-8.col-md-2.d-flex.justify-content-center.align-items-center.mb-mob
         img(src='@/assets/curso/t1/img-2.png', alt='Intro')
       .col-sm-12.col-md-10
         .cajon.color-primario.p-4.mb-2.mb-mob.mb-4
@@ -109,7 +109,7 @@
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1/img-5.png')})`}")
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1/img-7.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
               p.mb-0.text-white Entender y conocer a los clientes cada vez y con más detalle es una labor diaria en la que deben trabajar las áreas de mercadeo, y que por ningún motivo pueden dejar de realizar, ya que a partir de esa lectura se comienza con el desarrollo de nuevos productos y la participación en nuevos mercados, además se crean procesos de innovación constante; todos estos aspectos hacen crecer al negocio en todos los sentidos.  
 
@@ -189,7 +189,7 @@
     p.my-5(data-aos="zoom-in") Cuando se habla de construir el buyer persona, el objetivo consiste en crear una representación gráfica y ficticia del perfil del cliente de una empresa, en donde se logre identificar cada una de las variables en forma detallada, con el objetivo de establecer estrategias efectivas de marketing de acuerdo con las necesidades de la persona.                   
     
     .row(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
-      .col-sm-12.col-md-12.col-lg-8
+      .col-sm-12.col-md-12.col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Gráfico 1. 
           span Ejemplo buyer persona
@@ -199,7 +199,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_2 1.2. Segmento objetivo
+      h2#1_2 1.2 Segmento objetivo
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-6.mb-mob
           p.mb-3 Una vez claro el concepto del perfil del cliente, debemos pasar a hablar sobre el segmento objetivo. Cuando se habla de este en el mercadeo, siempre se debe iniciar por entender qué es la segmentación de mercados, para así comprender la participación de la empresa en el mismo. 
@@ -216,7 +216,7 @@
           figcaption Nota. Elaboración propia
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
-      .col-sm-12.col-md-3.mb-mob
+      .col-sm-10.col-md-3.mb-mob
         img(src='@/assets/curso/t1/img-16.png', alt='Intro')
       .col-sm-12.col-md-9
           p.mb-0 Entendida la segmentación, identificar el segmento objetivo se refiere a analizar cuáles son aquellas características que definen ese grupo de personas que comprarán los productos o servicios que ofrecen las empresas, y a partir de allí, establecer estrategias oportunas y eficaces que permitan el encuentro de la demanda y la oferta, con el menor ruido posible, todo en razón de satisfacer sus necesidades y motivar la venta de productos en una relación constante y duradera. En otras palabras, es encontrar un submercado.
@@ -298,7 +298,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_3 1.3. Psicología del consumidor
+      h2#1_3 1.3 Psicología del consumidor
     
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
@@ -312,7 +312,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_4 1.4. Investigación de mercados
+      h2#1_4 1.4 Investigación de mercados
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-4.mb-mob

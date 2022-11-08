@@ -15,7 +15,7 @@
         img(src='@/assets/curso/t2/img-1.png', alt='Intro')
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_1 2.1. Plan de mercadeo
+      h2#2_1 2.1 Plan de mercadeo
     p.mb-5(data-aos="zoom-in") El plan de mercadeo es la bitácora o el plan de vuelo de la compañía y del área de mercado. En este documento reposa toda la estrategia a desarrollar y el porqué de esta. En este se incluyen los objetivos de la compañía y los pasos a seguir en cada momento, dependiendo de los fines que se quieran conseguir. 
     p.text-center.mb-5(data-aos="zoom-in") Veamos los pasos para desarrollar un plan de mercadeo
     .row.d-flex.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
@@ -80,7 +80,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_2 2.2. Neuromarketing
+      h2#2_2 2.2 Neuromarketing
     .row(data-aos="zoom-in")
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t2/img-3.png', alt='Intro')
@@ -90,7 +90,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido.mb-0(data-aos="zoom-in")
-      h2#2_3 2.3. Estrategias de venta
+      h2#2_3 2.3 Estrategias de venta
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-12
@@ -104,7 +104,7 @@
     
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_4 2.4. Canales de comunicación
+      h2#2_4 2.4 Canales de comunicación
     
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-4.mb-mob
