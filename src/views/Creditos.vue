@@ -80,15 +80,19 @@ export default {
 .creditos-vista
   .tarjeta.credito
     background-color: $color-sistema-d
+
 .creditos
   color: $color-sistema-b
   overflow-x: auto
+
   &__item
     min-width: 490px
+
   p
     line-height: 1.3em
     margin-bottom: 0
     color: $color-sistema-b
+
   &__titulo
     font-weight: $base-bold-font-weight
     background-color: $color-sistema-d
