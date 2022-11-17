@@ -65,7 +65,7 @@
             .h5.mb-2.text-center Mercados Internacionales
             p Aquellas empresas que exportan productos nacionales a otros países como comodities, tales como el café, las naranjas o productos desarrollados y transformados en el país que se venden en mercados externos.
 
-    p.mb-2(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del marketing con respecto a estos tiene que ver con el cumplimiento de estos dos objetivos primordiales:
+    p.mb-2(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de estos dos objetivos primordiales:
     p.text-center.mb-5(data-aos="zoom-in") Dichos objetivos son:
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
@@ -94,7 +94,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1/img-5.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
-              p.mb-0 El perfil de cliente, o ahora denominado ‘buyer persona’, está directamente relacionado con la búsqueda, el análisis y el conocimiento de las características de ese consumidor ideal, ya sea una persona o empresa.
+              p.mb-0 El perfil de cliente, o ahora denominado ‘<i>buyer persona</i>’, está directamente relacionado con la búsqueda, el análisis y el conocimiento de las características de ese consumidor ideal, ya sea una persona o empresa.
 
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -245,7 +245,7 @@
             
 
     p.mb-3(data-aos="zoom-in") Al unir todas aquellas características homogéneas de los prospectos de clientes que se relacionan con la oferta de los productos ofrecidos, ya se tiene el segmento objetivo (submercado) y se pueden comenzar a definir estrategias, tácticas y acciones para atraerlos a las diferentes marcas.
-    p.mb-5(data-aos="zoom-in") Es importante establecer muy bien el segmento o grupo objetivo, y desde allí crear las estrategias del marketing mix, modelo creado por McCarthy en 1960 y actualmente utilizado.        
+    p.mb-5(data-aos="zoom-in") Es importante establecer muy bien el segmento o grupo objetivo, y desde allí crear las estrategias del <i>marketing</i> mix, modelo creado por McCarthy en 1960 y actualmente utilizado.        
 
     p.text-center.mb-5(data-aos="zoom-in") En el <i>marketing mix</i> se consideran los siguientes elementos:
 
@@ -304,7 +304,7 @@
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
           p.mb-3 Una vez se logra conocer al cliente y el mercado, tanto el segmento en que participa como aquel en el que se encuentra, es indispensable analizar sus comportamientos. 
-          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en la psicología, que según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el marketing hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es lo que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
+          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en la psicología, que según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el <i>marketing</i> hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es lo que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t1/img-17.png', alt='Intro')
 
@@ -319,7 +319,7 @@
         img(src='@/assets/curso/t1/img-18.png', alt='Intro')
       .col-sm-12.col-md-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-3 Pero bien, ¿cómo puedo tener toda la información que me lleva al conocimiento de mis clientes potenciales? La investigación de mercados es una técnica que se utiliza en el marketing y que tiene como objetivo recolectar, analizar y evaluar información referente al mercado (clientes y productos), con el fin de tomar las mejores decisiones, por parte de las empresas, de sus productos en el mercado.
+          p.mb-3 Pero bien, ¿cómo puedo tener toda la información que me lleva al conocimiento de mis clientes potenciales? La investigación de mercados es una técnica que se utiliza en el <i>marketing</i> y que tiene como objetivo recolectar, analizar y evaluar información referente al mercado (clientes y productos), con el fin de tomar las mejores decisiones, por parte de las empresas, de sus productos en el mercado.
           p Lo importante de realizarla no es sencillamente la recolección sistemática y continua de datos, sino saber interpretarlos de manera acertada.
         p Imagine cuando asiste a un supermercado y hay una promotora de una marca entregando una degustación de un producto nuevo que va a salir al mercado, cuando preguntan en una esquina o por correo acerca de un producto específico, o cuando llenamos encuestas de satisfacción de clientes en algunos locales comerciales: todas estas estrategias se realizan bajo este tipo de investigación  y son las empresas, tanto las nuevas como las que ya participan de dichos mercados, las que están encargadas de realizar este trabajo de manera permanente. 
     
