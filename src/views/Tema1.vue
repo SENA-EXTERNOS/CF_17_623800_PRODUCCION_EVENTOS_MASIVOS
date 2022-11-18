@@ -75,7 +75,7 @@
           .tarjeta.color-acento-botones
             .text-white.p-4
               h2.text-center Atraer clientes nuevos
-              p.text-center Toda empresa que se desarrolle y participe en un mercado debe trabajar sobre este objetivo diariamente.
+              p.text-center Toda empresa que se desarrolle y participe en un mercado debe trabrajar sobre este objetivo diariamente.
       .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/t1/img-4.png' alt='AvatarTop')
@@ -189,7 +189,7 @@
     p.my-5(data-aos="zoom-in") Cuando se habla de construir el <i>buyer</i> persona, el objetivo consiste en crear una representación gráfica y ficticia del perfil del cliente de una empresa, en donde se logre identificar cada una de las variables en forma detallada, con el objetivo de establecer estrategias efectivas de <i>marketing</i> de acuerdo con las necesidades de la persona.                   
     
     .row(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
-      .col-sm-12.col-md-12.col-lg-12
+      .col-sm-12.col-md-12.col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Gráfico 1. 
           span Ejemplo <i>buyer</i> persona
@@ -207,7 +207,7 @@
       .col-sm-12.col-md-6
         img(src='@/assets/curso/t1/img-14.png', alt='Intro')
     .row.mb-5(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
-      .col-sm-12.col-md-12.col-lg-8
+      .col-sm-12.col-md-12.col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Gráfico 2. 
           span <i>Segmentación del Mercado</i>
