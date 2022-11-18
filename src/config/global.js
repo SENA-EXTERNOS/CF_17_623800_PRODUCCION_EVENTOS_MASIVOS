@@ -190,7 +190,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Libro electrónico	Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020). Guía práctica para la elaboración de un plan de marketing (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia. ',
+        '<b> Libro electrónico	Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020). Guía práctica para la elaboración de un plan de marketing (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia. </b> ',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/17525/3/2019_GP_Marketing_Carrascal.pdf',
     },
