@@ -167,7 +167,7 @@
               ul.lista-ul
                 li.mb-0  
                   i.fas.fa-check.color-acento-botones
-                  | Actividades y <i>hobbies</i>.
+                  | Actividades y hobbies.
                 li.mb-0  
                   i.fas.fa-check.color-acento-botones
                   | Intereses.
@@ -178,7 +178,7 @@
               ul.lista-ul
                 li.mb-0  
                   i.fas.fa-check.color-acento-botones
-                  | Expectativas
+                  | Expectativas.
                 li.mb-0  
                   i.fas.fa-check.color-acento-botones
                   | Valores.
@@ -186,13 +186,13 @@
                   i.fas.fa-check.color-acento-botones
                   | Creencias, religión, espiritualidad, etc.
 
-    p.my-5(data-aos="zoom-in") Cuando se habla de construir el buyer persona, el objetivo consiste en crear una representación gráfica y ficticia del perfil del cliente de una empresa, en donde se logre identificar cada una de las variables en forma detallada, con el objetivo de establecer estrategias efectivas de marketing de acuerdo con las necesidades de la persona.                   
+    p.my-5(data-aos="zoom-in") Cuando se habla de construir el <i>buyer</i> persona, el objetivo consiste en crear una representación gráfica y ficticia del perfil del cliente de una empresa, en donde se logre identificar cada una de las variables en forma detallada, con el objetivo de establecer estrategias efectivas de <i>marketing</i> de acuerdo con las necesidades de la persona.                   
     
     .row(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
       .col-sm-12.col-md-12.col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Gráfico 1. 
-          span Ejemplo buyer persona
+          span Ejemplo <i>buyer</i> persona
         figure
           img(src='@/assets/curso/t1/img-13.png', alt='Intro')
           figcaption Fuente: https://milcapeguero.com/crear-buyer-personas-es-importante/
@@ -210,7 +210,7 @@
       .col-sm-12.col-md-12.col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Gráfico 2. 
-          span Segmentación del Mercado
+          span <i>Segmentación del Mercado</i>
         figure.mb-5
           img(src='@/assets/curso/t1/img-15.png', alt='Intro')
           figcaption Nota. Elaboración propia
@@ -278,9 +278,9 @@
           .col-sm-12.col-md-3.m-0.p-0.mb-mob
             img(src='@/assets/curso/t1/img-29.png', alt='Intro')
           .col-sm-12.col-md-9
-            p.mb-0  Son aquellas acciones que la empresa desarrolla para acercar el producto al consumidor final, el diseño de los canales de venta, tiendas propias, canales de venta, ventas por internet (e-commerce), entre otros. Esto incluye el desarrollo de la logística de acuerdo con las características del producto o servicio. 
+            p.mb-0  Son aquellas acciones que la empresa desarrolla para acercar el producto al consumidor final, el diseño de los canales de venta, tiendas propias, canales de venta, ventas por internet <i>(e-commerce)</i>, entre otros. Esto incluye el desarrollo de la logística de acuerdo con las características del producto o servicio. 
 
-    p.mb-5(data-aos="zoom-in") En el libro <i>Fundamentos de marketing</i>, William J. Stanton et al. proponen cuatro pautas para elegir mercados objetivo, a saber:
+    p.mb-5(data-aos="zoom-in") En el libro <i>Fundamentos de marketing</i>, William J. Stanton <i>et al.</i> proponen cuatro pautas para elegir mercados objetivo, a saber:
    
     .row(data-aos="zoom-in")
       .col-sm-12.col-md-6.mb-mob
@@ -304,7 +304,7 @@
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
           p.mb-3 Una vez se logra conocer al cliente y el mercado, tanto el segmento en que participa como aquel en el que se encuentra, es indispensable analizar sus comportamientos. 
-          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en la psicología, que según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el <i>marketing</i> hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es lo que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
+          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en la <i>psicología</i>, que según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el <i>marketing</i> hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es lo que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t1/img-17.png', alt='Intro')
 
@@ -340,8 +340,8 @@
             .col-md-8.mb-4.mb-md-0
               h3 Definir la muestra
               p Realizar un acercamiento sin tener que llegar a todos los participantes de la investigación requiere de un ejercicio para determinar la muestra, es decir, identificar a un número menor pero representativo de personas a las cuales se le aplicará el estudio de mercados.
-          p.mb-3 Muestreo probabilístico: se define la muestra al azar, garantizando que cualquier individuo de la población tendrá la misma probabilidad de ser escogido.
-          p.mb-5 Muestreo no probabilístico: busca encontrar diferentes clases de personas, de modo que la muestra sea más representativa. Es importante conocer las características demográficas de la población, tales como el género, la edad, en donde viven, entre otros.
+          p.mb-3 <b>Muestreo probabilístico:</b> se define la muestra al azar, garantizando que cualquier individuo de la población tendrá la misma probabilidad de ser escogido.
+          p.mb-5 <b>Muestreo no probabilístico:</b> busca encontrar diferentes clases de personas, de modo que la muestra sea más representativa. Es importante conocer las características demográficas de la población, tales como el género, la edad, en donde viven, entre otros.
       .row
         .col-12
           .row.mb-4

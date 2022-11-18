@@ -88,7 +88,7 @@
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-12.png')})`}")
               .tarjeta-flip__contenido.p-4.d-flex.justify-content-center.align-items-center
-                p.mb-0 Estrategia de confianza: en un mercado muy competitivo resulta indispensable generar tranquilidad en los clientes. Cuando la empresa ha tenido algún impasse necesita recuperar la credibilidad de los clientes mediante este tipo de estrategias.
+                p.mb-0 Estrategia de confianza: en un mercado muy competitivo resulta indispensable generar tranquilidad en los clientes. Cuando la empresa ha tenido algún <i>impasse</i> necesita recuperar la credibilidad de los clientes mediante este tipo de estrategias.
       .row
         .col-12.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false").med-cus-ta-flip
@@ -112,7 +112,7 @@
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-15.png')})`}")
               .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
-                p.mb-0 Estrategia de marketing digital: cuando la empresa comienza a introducirse en los medios digitales y tiene una estrategia digital definida.
+                p.mb-0 Estrategia de <i>marketing</i> digital: cuando la empresa comienza a introducirse en los medios digitales y tiene una estrategia digital definida.
       .row
         .col-12.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false").med-cus-ta-flip

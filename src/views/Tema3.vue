@@ -16,7 +16,7 @@
         img(src='@/assets/curso/t3/img-1.png', alt='Intro')
     p.text-center.mb-5(data-aos="zoom-in") A continuación, se presentan las variables para tener en cuenta para desarrollar un portafolio de servicios:
     .row(data-aos="zoom-in")
-      .col-sm-12.col-md-6.mb-mob
+      .col-sm-12.col-md-5.mb-mob
         img(src='@/assets/curso/t3/img-2.png', alt='Intro').mb-2
         img(src='@/assets/curso/t3/img-3.png', alt='Intro')
 
@@ -59,116 +59,117 @@
         img(src='@/assets/curso/t3/img-7.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Servicios de alimentación y catering.
+            p Servicios de alimentación y <i>catering</i>.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-8.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Servicios de transporte aéreo, terrestre y fluvial.	 
+            p Servicios de montaje y desmontaje.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-9.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de hospedaje.	 
+            p Servicios de transporte aéreo, terrestre y fluvial.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-10.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de hardware y software para eventos con carnetización, escarapelas, controles de acceso, bases de datos, etc.	 
+            p Proveedores de hospedaje.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-11.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de soluciones tecnológicas, como televisores, computadores, pantallas gigantes, proyectores, iluminación, tarimas, cámaras, traducción simultánea, realidad virtual, etc.	 
+            p Proveedores de <i>hardware y software </i> para eventos con carnetización, escarapelas, controles de acceso, bases de datos, etc.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-12.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de mobiliario, ambientación y escenografía.	 
+            p Proveedores de soluciones tecnológicas, como televisores, computadores, pantallas gigantes, proyectores, iluminación, tarimas, cámaras, traducción simultánea, realidad virtual, etc. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-13.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de menaje, mesas, manteles, sillas, copas, vidriería, loza, ollas, cubiertos, etc.	 
+            p Proveedores de mobiliario, ambientación y escenografía.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-14.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Recintos feriales.	 
+            p Proveedores de menaje, mesas, manteles, sillas, copas, vidriería, loza, ollas, cubiertos, etc.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-15.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de fotografía y realización de video.	 
+            p Recintos feriales.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-17.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de entretenimiento, como música, DJ, cómicos, presentadores, magos, bandas, pirotecnia (pólvora guiada y controlada), etc.	 
+            p Proveedores de fotografía y realización de video.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-18.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de decoración (flores,  globos. etc.) y ambientación.	 
+            p Proveedores de entretenimiento, como música, DJ, cómicos, presentadores, magos, bandas, pirotecnia (pólvora guiada y controlada), etc.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-19.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Representantes de artistas e influencers.	 
+            p Proveedores de decoración (flores, globos. etc.) y ambientación.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-20.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de montajes de stands y carpas.
+            p Representantes de artistas e <i>influencers.</i>
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-21.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Restaurantes y espacios para eventos.	 
+            p Proveedores de montajes de <i>stands</i> y carpas. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-22.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Personal de cocina y servicio a la mesa (chefs, meseros, barman, etc.).	 
+            p Restaurantes y espacios para eventos.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-23.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Modistas y diseñadores de modas.	
+            p Personal de cocina y servicio a la mesa (chefs, meseros, barman, etc.).	
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-24.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Empresas de personal especializado.	 
+            p Modistas y diseñadores de modas.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-25.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Proveedores de elementos publicitarios.
+            p Empresas de personal especializado.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-26.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Empresas de turismo.	 
+            p Proveedores de elementos publicitarios. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-27.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Agencias de publicidad.
+            p Empresas de turismo.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-28.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Medios de comunicación.	 
+            p Agencias de publicidad.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-29.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
-            p Diseñadores gráficos y web.
+            p Medios de comunicación.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-30.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
+            p Diseñadores gráficos y web.
             p Administradores de contenidos digitales.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-31.png' alt='AvatarTop')
@@ -186,11 +187,11 @@
       .col-sm-12.col-md-6
         .cajon.color-primario.p-4.mb-4
           p.mb-3 El precio es una de las variables más complicadas de implementar en cualquier negocio, producto o servicio, pues obedece a muchos factores tanto internos como de percepción de las personas. Sin embargo, el precio siempre estará directamente relacionado al segmento y el cliente objetivo en el que la empresa se ha enfocado. 
-        p.mb-0 El precio nos ayuda a filtrar los clientes y encontrar los segmentos. Esto no significa que si el precio es bajo el servicio es malo, o si el precio es alto el servicio es bueno, representa que dentro de los segmentos y los clientes objetivo hay características y una de ellas son los ingresos. Realizar una boda para un segmento de ingresos medios no significa que no incluirá los mismos pasos que una boda para un segmento de ingresos altos, la diferencia está en los proveedores que se contraten de acuerdo con los presupuestos.
+          p.mb-0 El precio nos ayuda a filtrar los clientes y encontrar los segmentos. Esto no significa que si el precio es bajo el servicio es malo, o si el precio es alto el servicio es bueno, representa que dentro de los segmentos y los clientes objetivo hay características y una de ellas son los ingresos. Realizar una boda para un segmento de ingresos medios no significa que no incluirá los mismos pasos que una boda para un segmento de ingresos altos, la diferencia está en los proveedores que se contraten de acuerdo con los presupuestos.
     .bloque-texto-b.color-acento-contenido.p-4(data-aos="zoom-in")
         .bloque-texto-b__texto
           p.mb-3 La competencia es importante también en la asignación de precios, pues dependiendo de esta varían los precios: a mayor competencia menores márgenes, a menor competencia mayores márgenes de ganancia. Se deben conocer los precios de la competencia tanto directa como indirecta para presentar precios que estén dentro del mercado. 
-          p.mb-0 Es muy importante que el organizador de eventos se concentre en crear un presupuesto ajustado a las necesidades del evento y del cliente para establecer los costos reales y su ganancia. Cada evento es diferente, por lo tanto, cada evento debe presupuestarse independientemente. Por la experiencia, los organizadores tienen costos preconcebidos que les ayudan a pronosticar los costos totales de un evento, pero estas son meras aproximaciones, lo definitivo es presupuestar muy bien, considerando el número de participantes del evento y las actividades a desarrollar durante este.     
+          p.text Es muy importante que el organizador de eventos se concentre en crear un presupuesto ajustado a las necesidades del evento y del cliente para establecer los costos reales y su ganancia. Cada evento es diferente, por lo tanto, cada evento debe presupuestarse independientemente. Por la experiencia, los organizadores tienen costos preconcebidos que les ayudan a pronosticar los costos totales de un evento, pero estas son meras aproximaciones, lo definitivo es presupuestar muy bien, considerando el número de participantes del evento y las actividades a desarrollar durante este.     
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
@@ -225,7 +226,7 @@
         h4 www.godaddy.com 
         img(src='@/assets/curso/t3/img-35.png', alt='Intro')
 
-    p.mb-5(data-aos="zoom-in") A continuación, se presentan algunas herramientas de internet que permiten diseñar de manera sencilla y fácil, bien sea anuncios, manejo de publicaciones en redes sociales, portafolios, posters, invitaciones, tarjetas, entre muchas otras acciones que le permiten mejorar la productividad y ahorrar costos al organizador de eventos.
+    p.mb-5(data-aos="zoom-in") A continuación, se presentan algunas herramientas de internet que permiten diseñar de manera sencilla y fácil, bien sea anuncios, manejo de publicaciones en redes sociales, portafolios, <i>posters</i>, invitaciones, tarjetas, entre muchas otras acciones que le permiten mejorar la productividad y ahorrar costos al organizador de eventos.
     p.text-center.mb-5(data-aos="zoom-in") Entre las más usadas se encuentran:
     
     SlyderA(tipo="b").color-primario.px-cus-5.py-5.mb-5(data-aos="zoom-in")

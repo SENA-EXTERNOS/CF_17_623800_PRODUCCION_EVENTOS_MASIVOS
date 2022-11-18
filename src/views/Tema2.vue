@@ -42,10 +42,9 @@
         .col-md-6
             img(src='@/assets/curso/t2/img-19.png', alt='Texto que describa la imagen')
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-md-4.mb-4.mb-md-0
           h4 Público objetivo
-          p 
-        .col-md-6
+        .col-md-8
             img(src='@/assets/curso/t2/img-12.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
@@ -80,13 +79,13 @@
 
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_2 2.2 Neuromarketing
+      h2#2_2 2.2 <i>Neuromarketing</i>
     .row(data-aos="zoom-in")
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t2/img-3.png', alt='Intro')
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
-          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar neuromarketing, las empresas pueden llegar a comprender a sus consumidores, por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
+          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar <i>neuromarketing</i>, las empresas pueden llegar a comprender a sus consumidores, por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
 
     Separador
     .titulo-segundo.color-acento-contenido.mb-0(data-aos="zoom-in")
