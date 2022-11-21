@@ -190,39 +190,39 @@ export default {
   referencias: [
     {
       referencia:
-        '<b> Libro electrónico	Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020). Guía práctica para la elaboración de un plan de marketing (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia. </b> ',
+        'Libro electrónico	<i>Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020) </i>. Guía práctica para la elaboración de un plan de marketing (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia.',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/17525/3/2019_GP_Marketing_Carrascal.pdf',
     },
     {
       referencia:
-        'Blog	Content, Rock. (2018, agosto).¡Aprende los secretos para hacer una buena propuesta comercial! [Web log post]. rockcontent.',
+        'Blog	Content,<i> Rock. (2018, agosto) </i>.¡Aprende los secretos para hacer una buena propuesta comercial! [Web log post]. rockcontent.',
       link: 'https://rockcontent.com/es/blog/propuesta-comercial/ ',
     },
     {
       referencia:
-        'Libro electrónico	Hoyos Ballesteros, Ricardo. (2018) Plan De Marketing: Con Enfoque En Gerencia De Mercadeo. 1a. ed. Web.',
+        'Libro electrónico	<i> Hoyos Ballesteros, Ricardo. (2018) </i> Plan De Marketing: Con Enfoque En Gerencia De Mercadeo. 1a. ed. Web.',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8802&pg=1 ',
     },
     {
       referencia:
-        'Libro	Kotler, P. y Armstrong, G. (2013) Fundamentos de marketing. (11 ed.) Pearson Educación.Página Web	MGlobal. (s.f.) Neuromarketing; Qué es y cómo aplicarlo en tu empresa. MGlobal.',
+        'Libro	<i> Kotler, P. y Armstrong, G. (2013) </i> Fundamentos de marketing. (11 ed.) Pearson Educación.Página Web	MGlobal. (s.f.) Neuromarketing; Qué es y cómo aplicarlo en tu empresa. MGlobal.',
       link:
         'https://mglobalmarketing.es/blog/neuromarketing-en-la-mente-del-consumidor-1/ ',
     },
     {
       referencia:
-        'Libro electrónico	Pineda Ayala, L., Armstrong, G., Kotler, P., & Amador Araujo, Lourdes traductor. (2017). Marketing (16a. ed.). Pearson Education. ',
+        'Libro electrónico <i>	Pineda Ayala, L., Armstrong, G., Kotler, P., & Amador Araujo, Lourdes traductor. (2017) </i> . Marketing (16a. ed.). Pearson Education. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4426',
     },
     {
       referencia:
-        'Página web	Sordo, M. (2022) Estrategias de comunicación: qué son, tipos y ejemplos. HubSpot.',
+        'Página web	<i> Sordo, M. (2022) </i> Estrategias de comunicación: qué son, tipos y ejemplos. HubSpot.',
       link: 'https://blog.hubspot.es/marketing/estrategias-comunicacion ',
     },
     {
       referencia:
-        'Libro	Stanton, W., Etzel, M. y Walker, B. (2007). Fundamentos de marketing. (14. Ed.) The McGraw-Hill Companies. ',
+        'Libro	<i> Stanton, W., Etzel, M. y Walker, B. (2007) </i>. Fundamentos de marketing. (14. Ed.) The McGraw-Hill Companies. ',
       link:
         'https://mercadeo1marthasandino.files.wordpress.com/2015/02/fundamentos-de-marketing-stanton-14edi.pdf',
     },
