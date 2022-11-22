@@ -224,7 +224,7 @@ export default {
       referencia:
         'Libro Stanton, W., Etzel, M. y Walker, B. (2007) <i>. Fundamentos de marketing. </i> (14. Ed.) The McGraw-Hill Companies. ',
       link:
-        'https://mercadeo1marthasandino.files.wordpress.com/2015/02/fundamentos-de-marketing-stanton-14edi.pdf',
+        'https://mercadeo1marthasandino.files.wordpress.com/2015/02/fundamentos-de-marketing-stanton-14edi.pdf' ,
     },
   ],
   glosario: [
