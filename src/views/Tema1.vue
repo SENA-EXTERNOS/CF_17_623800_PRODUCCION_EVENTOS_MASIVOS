@@ -313,7 +313,6 @@
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2#1_4 1.4 Investigación de mercados
-    
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-4.mb-mob
         img(src='@/assets/curso/t1/img-18.png', alt='Intro')
