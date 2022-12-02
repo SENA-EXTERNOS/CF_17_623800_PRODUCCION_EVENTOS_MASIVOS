@@ -176,8 +176,6 @@
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-4
             p Base de datos de profesores, facilitadores y académicos.
-
-
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2#3_2 3.2 Fijación de precios
