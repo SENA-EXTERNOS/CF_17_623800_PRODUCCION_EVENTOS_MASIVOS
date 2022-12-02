@@ -212,6 +212,13 @@ export default {
     },
     {
       referencia:
+        'Página Web	MGlobal. (s.f.) <i> Neuromarketing; Qué es y cómo aplicarlo en tu empresa. </i> MGlobal.',
+      link:
+        'https://mglobalmarketing.es/blog/neuromarketing-en-la-mente-del-consumidor-1/ ',
+    },
+
+    {
+      referencia:
         'Libro electrónico Pineda Ayala, L., Armstrong, G., Kotler, P., & Amador Araujo, Lourdes traductor. (2017) <i> . Marketing (16a. ed.).</i> Pearson Education. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4426',
     },
@@ -293,7 +300,7 @@ export default {
     {
       tema: 'Plan de mercadeo',
       referencia:
-        'Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020). Guía práctica para la elaboración de un plan de marketing (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia. doi: https:// doi.org/10.16925/gcgp.22',
+        'Carrascal-Bello, L. C. y Mangones-Jiménez, Y. P. (2020). <i> Guía práctica para la elaboración de un plan de marketing </i> (Generación de contenidos impresos N.º 4). Bogotá: Ediciones Universidad Cooperativa de Colombia. doi: https:// doi.org/10.16925/gcgp.22',
       tipo: 'Artículo, manual',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/17525/3/2019_GP_Marketing_Carrascal.pdf   ',
@@ -301,23 +308,23 @@ export default {
     {
       tema: 'Plan de mercadeo',
       referencia:
-        'Méndez, J. (2018). Qué es y Cómo hacer un plan de Marketing [Video] YouTube. https://www.youtube.com/watch?v=4LmLWpkUVYU',
+        'Méndez, J. (2018). <i> Qué es y Cómo hacer un plan de Marketing </i> [Video] YouTube. https://www.youtube.com/watch?v=4LmLWpkUVYU',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=4LmLWpkUVYU',
     },
     {
       tema: 'Marketing Mix',
       referencia:
-        'Méndez, J (2020) Marketing Mix Las 4Ps, 7Ps [Video] YouTube.https://www.youtube.com/watch?v=8eiXiL4JktY',
+        'Méndez, J (2020) <i> Marketing Mix Las 4Ps, 7Ps </i> [Video] YouTube.https://www.youtube.com/watch?v=8eiXiL4JktY',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=8eiXiL4JktY ',
+      link: 'https://www.youtube.com/watch?v=8eiXiL4JktY',
     },
     {
       tema: 'El plan de mercadeo',
       referencia:
-        'Toro, P (2017) El Plan de Marketing y Plan Estratégico [Video] YouTube. https://youtu.be/ZTsvfmaRBHA',
+        'Toro, P (2017) <i> El Plan de Marketing y Plan Estratégico </i> [Video] YouTube. https://youtu.be/ZTsvfmaRBHA',
       tipo: 'Video',
-      link: 'https://youtu.be/ZTsvfmaRBHA ',
+      link: 'https://youtu.be/ZTsvfmaRBHA',
     },
   ],
   creditos: {
