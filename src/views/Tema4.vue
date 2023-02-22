@@ -13,9 +13,10 @@
       .col-sm-12.col-md-6
           p.mb-3 Las propuestas comerciales se diseñan para presentar la información de los productos o servicios a los clientes o prospectos que están interesados. No existe un esquema de propuestas, pues cada empresa elabora la suya dependiendo de su segmento, de los servicios que ofrezca y de la misión empresarial.
           p.mb-0 Hay elementos que es importante considerar al presentar una propuesta comercial, como lo son el análisis del cliente, el mercado, la competencia (competidores) y los aspectos legales y tributarios.
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#4_1 4.1 Estructura y componentes  
+    
+    .row.mt-5
+      h3 Estructura y componentes  
+
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-7
         .cajon.color-acento-contenido.p-4.mb-4
@@ -61,15 +62,14 @@
         .col-md-6.mb-4.mb-md-0
           p Aspectos legales y políticas del servicio (aquí es importante definir qué es lo que incluye o no el producto o servicio)
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#4_2 4.2 Estrategias de información y comunicación aplicadas
+    .row.mt-5
+      h3 Estrategias de información y comunicación aplicadas
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t4/img-3.png', alt='Intro')
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
-          p.mb-3 Dentro de la estrategia comercial de un operador de eventos es importante definir cuáles son los canales de comunicación con sus clientes y sus prospectos de clientes. Es una herramienta crucial que ayuda a la empresa a definir canales para captar la atención de los clientes, con el fin de precisar, crear y enviar sus mensajes de forma eficaz. 
+          p.mb-3 Dentro de la estrategia comercial de un operador de eventos es importante definir cuáles son los canales de comunicación con sus clientes y sus prospectos, pues por medio de ellos la empresa logrará captar su atención, con el fin de precisar, crear y enviar sus mensajes de forma eficaz. 
           p.mb-0 Dependiendo del momento en que se encuentre la empresa, existen algunas alternativas para desarrollar estrategias de información y comunicación entre la empresa y los clientes.
     p.text-center.mb-5(data-aos="zoom-in") A continuación, se nombrarán algunas:
     SlyderF.mb-5(columnas="col-lg-4 col-md-4")(data-aos="zoom-in")
@@ -125,8 +125,8 @@
      
 
 
-    p(data-aos="zoom-in") Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros.  
-
+    p(data-aos="zoom-in") Para un estudio completo del tema, recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+    
 </template>
 
 <script>

@@ -13,9 +13,10 @@
           p.mb-0 Para crear una hoja de ruta que se adapte a la empresa, al mercado y a los clientes, es necesario realizar una planeación previa y detallada con el fin de no cometer errores y responder a los requerimientos que se vayan presentando en el dinamismo del mercado. Un organizador de eventos debe desarrollar el plan de mercadeo de su empresa para identificar claramente qué debe hacer para lograr los objetivos planteados.
       .col-sm-12.col-md-4
         img(src='@/assets/curso/t2/img-1.png', alt='Intro')
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_1 2.1 Plan de mercadeo
+    
+    .row.mt-5
+      h3 Plan de mercadeo
+
     p.mb-5(data-aos="zoom-in") El plan de mercadeo es la bitácora o el plan de vuelo de la compañía y del área de mercado. En este documento reposa toda la estrategia a desarrollar y el porqué de esta. En este se incluyen los objetivos de la compañía y los pasos a seguir en cada momento, dependiendo de los fines que se quieran conseguir. 
     p.text-center.mb-5(data-aos="zoom-in") Veamos los pasos para desarrollar un plan de mercadeo
     .row.d-flex.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
@@ -37,7 +38,7 @@
             img(src='@/assets/curso/t2/img-18.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
-          h4 ANÁLISIS DOFA - FADO
+          h4 Análisis DOFA o FADO
           p Corresponde a las siglas: (Debilidades, Oportunidades, Fortalezas y Amenazas), y es el formato por medio del cual la empresa puede hacer un análisis y medición de su capacidad interna frente al mercado. De este análisis nace la creación de las estrategias a implementar en el logro de los objetivos.
         .col-md-6
             img(src='@/assets/curso/t2/img-19.png', alt='Texto que describa la imagen')
@@ -77,33 +78,28 @@
         .col-12
             img(src='@/assets/curso/t2/img-17.png', alt='Texto que describa la imagen')
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_2 2.2 <i>Neuromarketing</i>
+    .row.mt-5
+      h3 <i>Neuromarketing</i>
+
     .row(data-aos="zoom-in")
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t2/img-3.png', alt='Intro')
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
-          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar <i>neuromarketing</i>, las empresas pueden llegar a comprender a sus consumidores, por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
+          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar neuromarketing, las empresas pueden llegar a conocer a sus consumidores y sus deseos no manifestados, ir al fondo de por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, al escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
 
-    Separador
-    .titulo-segundo.color-acento-contenido.mb-0(data-aos="zoom-in")
-      h2#2_3 2.3 Estrategias de venta
+    .row.mt-5
+      h3 Estrategias de venta
     
-    .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
-      .col-12
-        .cajon.color-acento-contenido.p-4.mt-5
-          p.mb-0 Si bien el mercadeo tiene como objetivo crear los productos y servicios, establecer la estrategia para llevarlos al mercado de consumo y presentarlos a los clientes, las ventas hacen parte de este eslabón definitivo, donde se toma la decisión de compra definitiva.
+      p Si bien el mercadeo tiene como objetivo crear los productos y servicios, establecer la estrategia para llevarlos al mercado de consumo y presentarlos a los clientes, las ventas hacen parte de este eslabón definitivo, donde se toma la decisión de compra final.
 
     figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#2_4 2.4 Canales de comunicación
+    .row.mt-5
+      h3 Canales de comunicación
     
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-4.mb-mob

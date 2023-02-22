@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p En el siguiente gráfico el aprendiz podrá analizar a sus clientes y tener una idea clara acerca de la creación del portafolio de productos y servicios, así como todos los aspectos que hay que considerar para desarrollar el plan de mercadeo y la propuesta comercial, los cuales se abordan en este componente formativo. 
-
+    p En el siguiente gráfico el aprendiz podrá encontrar las ideas principales y los temas desarrollados en el presente componente formativo
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

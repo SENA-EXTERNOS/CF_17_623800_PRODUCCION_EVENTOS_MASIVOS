@@ -9,16 +9,21 @@
 
     .row(data-aos="zoom-in")
       .col-sm-12.col-md-8.mb-mob
-        p.mb-3 El cliente es la razón de existencia de las empresas, es la otra parte del mercado y el soporte para su subsistencia. Los clientes son aquellas personas o empresas que compran los productos, quienes generan demanda.
-        p.mb-3 Todas las empresas crean sus marcas para ganarse la compra, y posteriormente, la lealtad de los clientes, desde el más pequeño hasta el más grande de ellos, y en los cuales pueden incluirse algunos productos o servicios.
+        p.mb-3 El cliente es la razón de existencia de las empresas, es la otra parte del mercado y el soporte para su subsistencia. Los clientes son aquellas personas o empresas que compran los productos o adquieren determinado servicio, es decir quienes generan la demanda.
+
+        p.mb-3 Todas las empresas crean sus marcas para ganarse la compra, y posteriormente, la lealtad de los clientes, desde el más pequeño hasta el más grande.
+
         .cajon.color-acento-contenido.p-4.mt-5
-          p.mb-0 Es importante diferenciar entre un cliente y un consumidor, pues no siempre son los mismos, y es esencial que desde el mercado se entienda claramente el rol de cada uno. Ejemplo: un niño es un consumidor y usuario de toda clase de artículos necesarios, pero no es él quien define esta compra, son sus padres; por lo tanto, el niño sería el usuario y el cliente los padres, pues son quienes deciden y realizan la compra al final.
+          p.mb-0 Es importante diferenciar entre un cliente y un consumidor, pues no siempre son los mismos, y es esencial que desde el mercado se entienda claramente el rol de cada uno. 
+          br 
+      
+          p Por ejemplo: Lucky es el consumidor de croquetas para perro, pero no es quien define ni realiza propiamente la compra, son sus amos quienes asumen el rol de cliente en este ejemplo. 
+
       .col-sm-12.col-md-4
         img(src='@/assets/curso/t1/img-1.png', alt='Intro')
     
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_1 1.1 Perfil del cliente
+    .row.mt-5
+      h3 Perfil del cliente
 
     .row.mb-5(data-aos="zoom-in")
       .col-sm-8.col-md-2.d-flex.justify-content-center.align-items-center.mb-mob
@@ -32,7 +37,7 @@
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-8
         .cajon.color-acento-contenido.p-4.mt-5
-          p.mb-0 A continuación se resumen cuantos tipos de mercados existen y qué determina cada uno de ellos:
+          p.mb-0 A continuación, se resumen cuántos tipos de mercados existen y qué determina cada uno de ellos:
 
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-8
@@ -60,12 +65,14 @@
             p El gobierno de cualquier país representa un gran cliente debido a las grandes cantidades que compra para el desarrollo de sus gestión. Por ello, es considerado un mercado atractivo, y tiene una dinámica especial para solicitudes, requerimientos y pagos.
           .tarjeta.color-primario.p-3(x="49%" y="54%" numero="+")
             .h5.mb-2.text-center Mercados Institucionales
-            p Todas aquellas empresas que realizan compras muy grandes con características  únicas de calidad, presentación o empaque. Entre los que se encuentran hoteles, restaurantes,, etc. También presentan una  dinámica especial para solicitudes, requerimientos y pagos. 
+            p Todas aquellas empresas que realizan compras muy grandes con características  únicas de calidad, presentación o empaque. Entre los que se encuentran hoteles, restaurantes, etc. También presentan una  dinámica especial para solicitudes, requerimientos y pagos. 
+
           .tarjeta.color-primario.p-3(x="74%" y="96%" numero="+")
             .h5.mb-2.text-center Mercados Internacionales
             p Aquellas empresas que exportan productos nacionales a otros países como comodities, tales como el café, las naranjas o productos desarrollados y transformados en el país que se venden en mercados externos.
 
-    p.mb-2(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de estos dos objetivos primordiales:
+    p.mb-2(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de dos objetivos primordiales:
+
     p.text-center.mb-5(data-aos="zoom-in") Dichos objetivos son:
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
@@ -103,7 +110,29 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1/img-6.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
-              p.mb-0 Las variables a tener en cuenta son: género, edad, ingresos; aspectos psicográficos como estilo de vida, valores, deseos y aspectos conductuales como hábitos y frecuencia de compra.
+              
+              ul.lista-ul
+                p Las variables a tener en cuenta son: 
+                li.mb-0  
+                  i.fas.fa-check.color-acento-botones
+                  p.mb-0 Género.
+
+                li.mb-0  
+                  i.fas.fa-check.color-acento-botones
+                  p.mb-0 Edad.
+
+                li.mb-0  
+                  i.fas.fa-check.color-acento-botones
+                  p.mb-0 Ingresos.
+
+                li.mb-0  
+                  i.fas.fa-check.color-acento-botones
+                  p.mb-0 Aspectos psicográficos (estilo de vida, valores, deseos).
+
+                li.mb-0  
+                  i.fas.fa-check.color-acento-botones
+                  p.mb-0 Aspectos conductuales (hábitos y frecuencia de compra).
+
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -111,8 +140,8 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1/img-7.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
-              p.mb-0.text-white Entender y conocer a los clientes cada vez y con más detalle es una labor diaria en la que deben trabajar las áreas de mercadeo, y que por ningún motivo pueden dejar de realizar, ya que a partir de esa lectura se comienza con el desarrollo de nuevos productos y la participación en nuevos mercados, además se crean procesos de innovación constante; todos estos aspectos hacen crecer al negocio en todos los sentidos.  
-
+              p.mb-0.text-white Entender y conocer a los clientes cada vez y con más detalle es una labor diaria en la que deben trabajar las áreas de mercadeo, y que por ningún motivo pueden dejar de realizar, ya que, a partir de esa lectura se comienza con el desarrollo de nuevos productos y la participación en nuevos mercados, además se crean procesos de innovación constante; todos estos aspectos hacen crecer al negocio en todos los sentidos.  
+              
     p.mb-5(data-aos="zoom-in") Para conocer a los clientes se deben tener en cuenta diferentes variables, las cuales vamos a agrupar en 4 categorías o aspectos.
     p.text-center.mb-5(data-aos="zoom-in") Los aspectos y sus variables son:
 
@@ -191,15 +220,16 @@
     .row(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
       .col-sm-12.col-md-12.col-lg-8
         .titulo-sexto.color-acento-contenido
-          h5 Gráfico 1. 
-          span Ejemplo <i>buyer</i> persona
+          h5 Gráfico 1
+          p <i>Ejemplo buyer persona</i>
         figure
           img(src='@/assets/curso/t1/img-13.png', alt='Intro')
           figcaption Fuente: https://milcapeguero.com/crear-buyer-personas-es-importante/
-    Separador
+    
+    
+    .row.mt-5
+      h3 Segmento objetivo
 
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_2 1.2 Segmento objetivo
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-6.mb-mob
           p.mb-3 Una vez claro el concepto del perfil del cliente, debemos pasar a hablar sobre el segmento objetivo. Cuando se habla de este en el mercadeo, siempre se debe iniciar por entender qué es la segmentación de mercados, para así comprender la participación de la empresa en el mismo. 
@@ -209,8 +239,8 @@
     .row.mb-5(data-aos="zoom-in").d-flex.justify-content-center.align-items-center
       .col-sm-12.col-md-12.col-lg-7
         .titulo-sexto.color-acento-contenido
-          h5 Gráfico 2. 
-          span <i>Segmentación del Mercado</i>
+          h5 Gráfico 2
+          p <i>Segmentación del Mercado</i>
         figure.mb-5
           img(src='@/assets/curso/t1/img-15.png', alt='Intro')
           figcaption Nota. Elaboración propia
@@ -221,7 +251,7 @@
       .col-sm-12.col-md-9
           p.mb-0 Entendida la segmentación, identificar el segmento objetivo se refiere a analizar cuáles son aquellas características que definen ese grupo de personas que comprarán los productos o servicios que ofrecen las empresas, y a partir de allí, establecer estrategias oportunas y eficaces que permitan el encuentro de la demanda y la oferta, con el menor ruido posible, todo en razón de satisfacer sus necesidades y motivar la venta de productos en una relación constante y duradera. En otras palabras, es encontrar un submercado.
         
-    p.mb-5(data-aos="zoom-in") Veamos el siguiente ejemplo: una empresa de eventos que se especializa en bodas requiere conocer su mercado objetivo, por tanto, inicia la identificación de sus clientes para conocer su mercado objetivo.     
+    p.mb-5(data-aos="zoom-in") Veamos el siguiente ejemplo: una empresa de eventos que se especializa en bodas requiere conocer su mercado objetivo, por tanto, inicia la identificación de sus clientes potenciales para generar un mejor portafolio de servicios y estrategías de mercadeo: 
 
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="zoom-in") 
       .row.m-0.align-items-center.justify-content-between
@@ -247,7 +277,7 @@
     p.mb-3(data-aos="zoom-in") Al unir todas aquellas características homogéneas de los prospectos de clientes que se relacionan con la oferta de los productos ofrecidos, ya se tiene el segmento objetivo (submercado) y se pueden comenzar a definir estrategias, tácticas y acciones para atraerlos a las diferentes marcas.
     p.mb-5(data-aos="zoom-in") Es importante establecer muy bien el segmento o grupo objetivo, y desde allí crear las estrategias del <i>marketing</i> mix, modelo creado por McCarthy en 1960 y actualmente utilizado.        
 
-    p.text-center.mb-5(data-aos="zoom-in") En el <i>marketing mix</i> se consideran los siguientes elementos:
+    p.mb-5(data-aos="zoom-in") En el <i>marketing mix</i> se consideran los siguientes elementos:
 
      TabsA.color-acento-contenido.my-5(data-aos="zoom-in")
       .tarjeta.p-5(titulo="Producto").text-start.bg-pasos-a-opc
@@ -296,33 +326,39 @@
           .row(titulo="Pauta 4 ")
               p.mb-0.pl-5-cus La compañía debe buscar mercados en donde el número de competidores sea mínimo, en lo posible. Entrar a mercados muy competitivos no ayudará a la obtención de utilidades, por el contrario, significa mucho esfuerzo y pocas utilidades.
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_3 1.3 Psicología del consumidor
+    .row.mt-5
+      h3 Psicología del consumidor
     
     .row.mb-5(data-aos="zoom-in")
       .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-4.m-4
           p.mb-3 Una vez se logra conocer al cliente y el mercado, tanto el segmento en que participa como aquel en el que se encuentra, es indispensable analizar sus comportamientos. 
-          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en la <b>psicología</b>, que según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el <i>marketing</i> hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es lo que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
+
+          p.mb-0 Todos los clientes son personas (seres humanos), independiente de que estén constituidos como empresas, pues estas son manejadas por personas. Los clientes compran productos o servicios basados en sus comportamientos (afectivo, cognitivo y conductual), por ello el mercadeo se basa en <b>la psicología</b>, que, según el Diccionario de Oxford, es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente, físico y social que lo rodea. 
       .col-sm-12.col-md-4.m-0.p-0
         img(src='@/assets/curso/t1/img-17.png', alt='Intro')
 
-    p.mb-5(data-aos="zoom-in") Al aplicar psicología del consumidor, las empresas pueden realizar pesquisas sobre las preferencias, establecer frecuencias de compra y analizar comportamientos frente a los productos (empaque, colores, degustación); de igual forma, hacen uso de los patrones de compra (por qué, dónde, cuándo y qué compran) y reacciones frente a mensajes publicitarios, entre muchos otros.     
+    p.mb-5(data-aos="zoom-in") Para crear caminos más claros entre las personas y las marcas (oferta - demanda) el <i>marketing</i> hace uso de la denominada “Psicología del consumidor,” la cual consiste en conocer qué es aquello que las personas requieren o necesitan y cómo, por medio de estrategias creadas, es posible persuadir de acuerdo a las características de los productos ofrecidos. Cabe aclarar que no se trata de engañar, por el contrario, se trata de establecer caminos certeros entre personas y productos para que exista una relación de ganancia para todas las partes.
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-      h2#1_4 1.4 Investigación de mercados
+    p Al aplicar psicología del consumidor, las empresas pueden realizar pesquisas sobre las preferencias, establecer frecuencias de compra y analizar comportamientos frente a los productos (empaque, colores, degustación); de igual forma, hacen uso de los patrones de compra (por qué, dónde, cuándo y qué compran) y reacciones frente a mensajes publicitarios, entre muchos otros. 
+
+
+
+    .row.mt-5
+      h3 Investigación de mercados
+
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-4.mb-mob
         img(src='@/assets/curso/t1/img-18.png', alt='Intro')
       .col-sm-12.col-md-8
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-3 Pero bien, ¿cómo puedo tener toda la información que me lleva al conocimiento de mis clientes potenciales? La investigación de mercados es una técnica que se utiliza en el <i>marketing</i> y que tiene como objetivo recolectar, analizar y evaluar información referente al mercado (clientes y productos), con el fin de tomar las mejores decisiones, por parte de las empresas, de sus productos en el mercado.
-          p Lo importante de realizarla no es sencillamente la recolección sistemática y continua de datos, sino saber interpretarlos de manera acertada.
-        p Imagine cuando asiste a un supermercado y hay una promotora de una marca entregando una degustación de un producto nuevo que va a salir al mercado, cuando preguntan en una esquina o por correo acerca de un producto específico, o cuando llenamos encuestas de satisfacción de clientes en algunos locales comerciales: todas estas estrategias se realizan bajo este tipo de investigación  y son las empresas, tanto las nuevas como las que ya participan de dichos mercados, las que están encargadas de realizar este trabajo de manera permanente. 
-    
-    p.text-center.mb-5(data-aos="zoom-in") Veamos cuáles son los pasos para realizar una investigación de mercados.
+
+        p Lo importante de realizarla no es sencillamente la recolección sistemática y continua de datos, sino saber interpretarlos de manera acertada.
+
+        p Imagine cuando asiste a un supermercado y hay una promotora de una marca entregando una degustación de un producto nuevo que va a salir al mercado, y posterior a ello le preguntan en sitio o por correo acerca de  su percepción frente a dicho producto, o cuando al final de una atención telefónica le piden llenar una encuesta de satisfacción; pues en estas dos situaciones hacen referencia a investigaciones de mercado. 
+
+    p.mb-5(data-aos="zoom-in") Veamos cuáles son los pasos para realizar una investigación de mercados.
 
     PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="zoom-in")
       .row
@@ -347,12 +383,15 @@
             .col-md-8.mb-4.mb-md-0
               h3 Realizar la recolección de datos
               p Establecer cómo se va a obtener la información de la muestra, para ello se debe definir qué se quiere obtener y lograr con la investigación para escoger el método más acertado. A continuación, se presentan algunos métodos de recolección de información:
+
             .col-md-3
                 img(src='@/assets/curso/t1/img-21.png', alt='Texto que describa la imagen')   
-          p.mb-3 #[strong Observación: ] se puede realizar de manera presencial o virtual, incluso ahora por redes sociales. Es importante tener claridad en las preguntas que se van a realizar para mantener el control de la entrevista.
-          p.mb-3 #[strong Entrevista: ] Es un método para obtener información del comportamiento del consumidor. Es económico ya que se realiza de manera directa en el lugar real, en donde se lleva a cabo la compra o la actividad a investigar, o se puede generar de manera controlada en lugares acondicionados, y analizar los comportamientos del consumidor frente al producto o servicio.
-          p.mb-3 #[strong Encuestas: ] es el más común de los métodos y el más usado, su gran ventaja es que permite llegar a muchas personas (masivo). Sin embargo, tiene varias problemáticas que afectan la muestra, por ejemplo, si el encuestador no está capacitado puede sesgar las respuestas. Gracias a la tecnología, las encuestas se realizan por medio virtual, pero se generan muchas respuestas falsas por temor al manejo de la información por parte de la persona que está respondiendo dicha encuesta.
-      .row.text-start
+          p.mb-3 #[strong Observación: ] se puede realizar de manera presencial o virtual (incluso por redes sociales). Es importante tener claridad en las preguntas que se van a realizar para mantener el control de la entrevista.
+
+          p.mb-3 #[strong Entrevista: ] es un método para obtener información del comportamiento del consumidor. Es económico ya que se realiza de manera directa en el lugar real, en donde se lleva a cabo la compra o la actividad a investigar, o se puede generar de manera controlada en lugares acondicionados, y analizar los comportamientos del consumidor frente al producto o servicio.
+
+          p.mb-3 #[strong Encuestas: ] es el más común de los métodos y el más usado, su gran ventaja es que permite llegar a muchas personas (masivo). Sin embargo, tiene varias problemáticas que afectan la muestra, por ejemplo, si el encuestador no está capacitado puede sesgar las respuestas. Gracias a la tecnología, las encuestas se pueden realizar  por medio virtual, pero se generan muchas respuestas falsas por temor al manejo de la información por parte de la persona que está respondiendo dicha encuesta.
+
         .col-12
           .row.mb-3
             .col-md-3

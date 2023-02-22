@@ -39,32 +39,6 @@ export default {
         numero: '1',
         titulo: 'El cliente',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Perfil del cliente',
-            hash: '1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Segmento objetivo',
-            hash: '1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Psicología del consumidor',
-            hash: '1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Investigación de mercados',
-            hash: '1_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
