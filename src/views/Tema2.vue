@@ -34,42 +34,42 @@
         .col-md-6.mb-4.mb-md-0
           h4 Análisis de la situación
           p.mb-0 Resumen breve y específico del estado de la empresa, historia y actualidad. Aquí se deben considerar los siguientes aspectos y se recomienda desarrollarlos dentro de la matriz DOFA: 
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-18.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
           h4 Análisis DOFA o FADO
           p Corresponde a las siglas: (Debilidades, Oportunidades, Fortalezas y Amenazas), y es el formato por medio del cual la empresa puede hacer un análisis y medición de su capacidad interna frente al mercado. De este análisis nace la creación de las estrategias a implementar en el logro de los objetivos.
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-19.png', alt='Texto que describa la imagen')
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Público objetivo
-        .col-md-8
+        .col-md-5
             img(src='@/assets/curso/t2/img-12.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
           h4 Objetivos
           p Establecer los objetivos financieros y los objetivos de mercado de acuerdo con las metas que se quieren lograr por la compañía, en un período determinado.
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-13.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
           h4 Desarrollo de estrategias
           p Creación de las estrategias de acuerdo con el <i>marketing mix.</i>
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-14.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
           h4 Establecimiento de tácticas
           p Establecer las tácticas por aplicar y dar operatividad al plan directamente desarrollado con las estrategias.
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-15.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
           h4 Presupuesto
           p Asignación de los costos por cada actividad a desarrollar para el logro del objetivo.
-        .col-md-6
+        .col-md-5
             img(src='@/assets/curso/t2/img-16.png', alt='Texto que describa la imagen')
       .row
         .col-md-6.mb-4.mb-md-0
@@ -91,7 +91,7 @@
     .row.mt-5
       h3 Estrategias de venta
     
-      p Si bien el mercadeo tiene como objetivo crear los productos y servicios, establecer la estrategia para llevarlos al mercado de consumo y presentarlos a los clientes, las ventas hacen parte de este eslabón definitivo, donde se toma la decisión de compra final.
+      p Si bien el mercadeo tiene como objetivo crear los productos y servicios, establecer la estrategia para llevarlos al mercado de consumo y presentarlos a los clientes, las ventas hacen parte de este eslabón definitivo, donde se toma la decisión de compra final. A continuación, lo invitamos a ver el siguiente video para profundizar el tema:
 
     figure(data-aos="zoom-in")
       .video

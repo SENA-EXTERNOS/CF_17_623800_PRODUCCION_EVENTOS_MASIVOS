@@ -23,44 +23,44 @@
           p.mb-0 Un organizador de eventos no debe olvidar incluir en la propuesta el objetivo del evento, los servicios ofrecidos, definir la fecha de la realización del evento, el valor total del evento discriminado por cada uno de los componentes que lo constituirán, las formas de pago y adelantos, si hay lugar a ellos.  
       .col-sm-12.col-md-3
         img(src='@/assets/curso/t4/img-2.png', alt='Intro')
-    p.text-center.mb-5(data-aos="zoom-in") Una propuesta se estructura de la siguiente manera:
+    p.mb-5(data-aos="zoom-in") Una propuesta se estructura de la siguiente manera:
     
     PasosB.color-acento-contenido.pasos-b-primario.px-5.py-5(data-aos="zoom-in")
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-4.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Introducción y objetivos
+          p Introducción y objetivos.
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-5.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Beneficios del servicio a prestar
+          p Beneficios del servicio a prestar.
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-6.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Características del servicio a realizar (alcance y tiempos)
+          p Características del servicio a realizar (alcance y tiempos).
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-7.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Metodología de trabajo por parte del organizador
+          p Metodología de trabajo por parte del organizador.
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-8.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Formas de pago
+          p Formas de pago.
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-9.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Vigencia de la propuesta
+          p Vigencia de la propuesta.
       .row(titulo="").d-flex.align-items-center.px-lg-5
         .col-sm-2.col-md-2.mb-mob
           img(src='@/assets/curso/t4/img-10.png', alt='Intro').img-w-mob
         .col-md-6.mb-4.mb-md-0
-          p Aspectos legales y políticas del servicio (aquí es importante definir qué es lo que incluye o no el producto o servicio)
+          p Aspectos legales y políticas del servicio (aquí es importante definir qué es lo que incluye o no el producto o servicio).
 
     .row.mt-5
       h3 Estrategias de información y comunicación aplicadas

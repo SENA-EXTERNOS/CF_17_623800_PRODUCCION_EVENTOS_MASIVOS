@@ -71,9 +71,9 @@
             .h5.mb-2.text-center Mercados Internacionales
             p Aquellas empresas que exportan productos nacionales a otros países como comodities, tales como el café, las naranjas o productos desarrollados y transformados en el país que se venden en mercados externos.
 
-    p.mb-2(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de dos objetivos primordiales:
+    p.mb-3(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de dos objetivos primordiales:
 
-    p.text-center.mb-5(data-aos="zoom-in") Dichos objetivos son:
+    p.mb-5(data-aos="zoom-in") Dichos objetivos son:
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-md-6.col-lg-4.mb-5.mb-lg-0
@@ -143,7 +143,7 @@
               p.mb-0.text-white Entender y conocer a los clientes cada vez y con más detalle es una labor diaria en la que deben trabajar las áreas de mercadeo, y que por ningún motivo pueden dejar de realizar, ya que, a partir de esa lectura se comienza con el desarrollo de nuevos productos y la participación en nuevos mercados, además se crean procesos de innovación constante; todos estos aspectos hacen crecer al negocio en todos los sentidos.  
               
     p.mb-5(data-aos="zoom-in") Para conocer a los clientes se deben tener en cuenta diferentes variables, las cuales vamos a agrupar en 4 categorías o aspectos.
-    p.text-center.mb-5(data-aos="zoom-in") Los aspectos y sus variables son:
+    p.mb-5(data-aos="zoom-in") Los aspectos y sus variables son:
 
     .card-info(data-aos="zoom-in")
       .card_img
@@ -243,7 +243,6 @@
           p <i>Segmentación del Mercado</i>
         figure.mb-5
           img(src='@/assets/curso/t1/img-15.png', alt='Intro')
-          figcaption Nota. Elaboración propia
     
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-10.col-md-3.mb-mob

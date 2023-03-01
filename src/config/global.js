@@ -46,32 +46,6 @@ export default {
         numero: '2',
         titulo: 'Pasos para un plan de mercadeo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Plan de mercadeo',
-            hash: '2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Neuromarketing',
-            hash: '2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Estrategias de venta',
-            hash: '2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Canales de comunicación',
-            hash: '2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -79,26 +53,6 @@ export default {
         numero: '3',
         titulo: 'Portafolio de productos y servicios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Productos y servicios para eventos',
-            hash: '3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Fijación de precios',
-            hash: '3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Herramientas y plataformas para el diseño del portafolio',
-            hash: '3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -106,20 +60,6 @@ export default {
         numero: '4',
         titulo: 'Propuesta comercial',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Estructura y componentes',
-            hash: '4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Estrategias de información y comunicación aplicadas',
-            hash: '4_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -187,8 +127,6 @@ export default {
     {
       referencia:
         'Página Web	MGlobal. (s.f.) <i> Neuromarketing; Qué es y cómo aplicarlo en tu empresa. </i> MGlobal.',
-      link:
-        'https://mglobalmarketing.es/blog/neuromarketing-en-la-mente-del-consumidor-1/ ',
     },
 
     {
