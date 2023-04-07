@@ -79,14 +79,14 @@
       .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/t1/img-3.png' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-acento-botones1
             .text-white.p-4
               h2.text-center Atraer clientes nuevos
               p.text-center Toda empresa que se desarrolle y participe en un mercado debe trabrajar sobre este objetivo diariamente.
       .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/t1/img-4.png' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-acento-botones1
             .text-white.p-4
               h2.text-center Mantener clientes actuales
               p.text-center Después de hacer todo el esfuerzo por conseguir clientes, debe hacer el doble de esfuerzo para conservarlos.
@@ -147,7 +147,7 @@
 
     .card-info(data-aos="zoom-in")
       .card_img
-        img(src='@/assets/curso/t1/img-8.svg' alt='img-7')
+        img(src='@/assets/curso/t1/img-8.svg' alt='img-7').img-8
       .card_text.p-0.m-0
         .row.p-0.m-0
           .col-12.p-0.m-0

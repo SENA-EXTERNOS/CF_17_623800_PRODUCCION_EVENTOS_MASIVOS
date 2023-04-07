@@ -42,11 +42,11 @@
       h3 Productos y servicios para eventos
 
     .row.mb-2(data-aos="zoom-in")
-      .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
-        .bg-color-white.p-5.m-4
+      .col-sm-12.col-md-7.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
+        .bg-color-white.p-3.m-4
           p.mb-3 A partir de la creación del portafolio es posible ver el segmento en el cual se va a desarrollar y los clientes potenciales. A partir de allí, se crea su portafolio de productos o servicios. 
           p.mb-0 El desarrollo de un evento, sin importar el tipo, lleva consigo muchos productos y servicios que deben considerarse muy bien para que se desarrolle de manera exitosa.
-      .col-sm-12.col-md-4.m-0.p-0
+      .col-sm-12.col-md-5.m-0.p-0
         img(src='@/assets/curso/t3/img-4.png', alt='Intro')
     .row.mb-5.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-12
@@ -60,123 +60,123 @@
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-7.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Servicios de alimentación y <i>catering</i>.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-8.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Servicios de montaje y desmontaje.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-9.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Servicios de transporte aéreo, terrestre y fluvial.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-10.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de hospedaje.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-11.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de <i>hardware y software </i> para eventos con carnetización, escarapelas, controles de acceso, bases de datos, etc.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-12.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
-            p Proveedores de soluciones tecnológicas, como televisores, computadores, pantallas gigantes, proyectores, iluminación, tarimas, cámaras, traducción simultánea, realidad virtual, etc. 
+          .p-3
+            p.mt-3 Proveedores de soluciones tecnológicas, como televisores, computadores, pantallas gigantes, proyectores, iluminación, tarimas, cámaras, traducción simultánea, realidad virtual, etc. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-13.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de mobiliario, ambientación y escenografía.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-14.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de menaje, mesas, manteles, sillas, copas, vidriería, loza, ollas, cubiertos, etc.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-15.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Recintos feriales.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-17.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de fotografía y realización de video.	 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-18.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de entretenimiento, como música, DJ, cómicos, presentadores, magos, bandas, pirotecnia (pólvora guiada y controlada), etc.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-19.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de decoración (flores, globos. etc.) y ambientación.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-20.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Representantes de artistas e <i>influencers.</i>
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-21.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de montajes de <i>stands</i> y carpas. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-22.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Restaurantes y espacios para eventos.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-23.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Personal de cocina y servicio a la mesa (chefs, meseros, barman, etc.).	
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-24.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Modistas y diseñadores de modas.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-25.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Empresas de personal especializado.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-26.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Proveedores de elementos publicitarios. 
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-27.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Empresas de turismo.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-28.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Agencias de publicidad.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-29.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Medios de comunicación.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-30.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Diseñadores gráficos y web.
             p Administradores de contenidos digitales.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-31.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
-          .p-4
+          .p-3
             p Base de datos de profesores, facilitadores y académicos.
     
     .row.mt-5

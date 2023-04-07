@@ -82,11 +82,12 @@
       h3 <i>Neuromarketing</i>
 
     .row(data-aos="zoom-in")
-      .col-sm-12.col-md-4.m-0.p-0
-        img(src='@/assets/curso/t2/img-3.png', alt='Intro')
-      .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
-        .bg-color-white.p-4.m-4
+      .col-sm-12.col-md-5.m-0.p-0
+        img(src='@/assets/curso/t2/img-3.png', alt='Intro').img3-tm2
+      .col-sm-12.col-md-7.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
+        .bg-color-white.p-3.m-4
           p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar neuromarketing, las empresas pueden llegar a conocer a sus consumidores y sus deseos no manifestados, ir al fondo de por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, al escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
+
 
     .row.mt-5
       h3 Estrategias de venta
@@ -95,8 +96,8 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/O_uQYV8rZ3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video
     
     .row.mt-5
       h3 Canales de comunicación

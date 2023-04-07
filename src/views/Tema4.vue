@@ -65,13 +65,15 @@
     .row.mt-5
       h3 Estrategias de información y comunicación aplicadas
     .row.mb-5(data-aos="zoom-in")
-      .col-sm-12.col-md-4.m-0.p-0
+      .col-sm-12.col-md-5.m-0.p-0
         img(src='@/assets/curso/t4/img-3.png', alt='Intro')
-      .col-sm-12.col-md-8.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
-        .bg-color-white.p-4.m-4
+      .col-sm-12.col-md-7.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
+        .bg-color-white.p-3.m-4
           p.mb-3 Dentro de la estrategia comercial de un operador de eventos es importante definir cuáles son los canales de comunicación con sus clientes y sus prospectos, pues por medio de ellos la empresa logrará captar su atención, con el fin de precisar, crear y enviar sus mensajes de forma eficaz. 
           p.mb-0 Dependiendo del momento en que se encuentre la empresa, existen algunas alternativas para desarrollar estrategias de información y comunicación entre la empresa y los clientes.
+    
     p.text-center.mb-5(data-aos="zoom-in") A continuación, se nombrarán algunas:
+    
     SlyderF.mb-5(columnas="col-lg-4 col-md-4")(data-aos="zoom-in")
       .row
         .col-12.mb-4.mb-xl-0
@@ -79,7 +81,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-11-full.png')})`}")
-              .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.p-xl-5.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de lanzamiento: se aplica cuando se quiere ingresar al mercado como marca corporativa o con un nuevo producto.
       .row
         .col-12.mb-4.mb-xl-0
@@ -87,7 +89,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-12.png')})`}")
-              .tarjeta-flip__contenido.p-4.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de confianza: en un mercado muy competitivo resulta indispensable generar tranquilidad en los clientes. Cuando la empresa ha tenido algún <i>impasse</i> necesita recuperar la credibilidad de los clientes mediante este tipo de estrategias.
       .row
         .col-12.mb-4.mb-xl-0
@@ -95,7 +97,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-13.png')})`}")
-              .tarjeta-flip__contenido.p-4.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de posicionamiento: utilizada para desarrollar marca y afianzarse en el mercado, se hace mucho énfasis en los atributos de la empresa y en el mensaje que quieren posicionar en la mente de los clientes. 
       .row
         .col-12.mb-4.mb-xl-0
@@ -103,7 +105,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-14.png')})`}")
-              .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.p-xl-5.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de relaciones públicas: cuando se quiere mostrar un giro empresarial o requiere hacerse visible por algún programa social que estratégicamente se necesite divulgar.
       .row
         .col-12.mb-4.mb-xl-0
@@ -111,7 +113,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-15.png')})`}")
-              .tarjeta-flip__contenido.p-4.p-xl-5.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.p-xl-5.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de <i>marketing</i> digital: cuando la empresa comienza a introducirse en los medios digitales y tiene una estrategia digital definida.
       .row
         .col-12.mb-4.mb-xl-0
@@ -119,7 +121,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t4/img-16.png')})`}")
-              .tarjeta-flip__contenido.p-4.d-flex.justify-content-center.align-items-center
+              .tarjeta-flip__contenido.p-3.d-flex.justify-content-center.align-items-center
                 p.mb-0 Estrategia de crecimiento: cuando la empresa se encuentra en expansión o tiene un crecimiento acelerado y requiere comunicarlo al mercado y a sus clientes. 
       
      
