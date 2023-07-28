@@ -210,7 +210,7 @@
     .row.mb-3.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-12
         .cajon.color-acento-contenido.p-4.mt-5
-          p.mb-0 Gracias a la oferta de aplicaciones y software existentes actualmente se puede crear una página web corporativa y el portafolio de productos o servicios, ya que permiten diseñar y crear la página web por el mismo organizador de eventos, haciendo uso de plantillas y  formatos guiados muy sencillo. Algunas ofrecen desde un servicio de alojamiento hasta tiendas virtuales listas para vender por internet, solo es cuestión de explorar. 
+          p.mb-0 Gracias a la oferta de aplicaciones y #[i software] existentes, actualmente se puede crear una página web corporativa y el portafolio de productos o servicios, ya que permiten diseñar y crear la página web por el mismo organizador de eventos, haciendo uso de plantillas y  formatos guiados muy sencillo. Algunas ofrecen desde un servicio de alojamiento hasta tiendas virtuales listas para vender por internet, solo es cuestión de explorar. 
     p.text-center.mb-5(data-aos="zoom-in") Dentro de las plataformas más usadas actualmente encontramos:
     SlyderA(tipo="b").color-primario.px-cus-5.py-5.mb-5(data-aos="zoom-in")
       .px-cus-5.py-2.text-center
