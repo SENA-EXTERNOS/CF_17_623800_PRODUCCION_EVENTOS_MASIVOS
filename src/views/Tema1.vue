@@ -69,7 +69,7 @@
 
           .tarjeta.color-primario.p-3(x="74%" y="96%" numero="+")
             .h5.mb-2.text-center Mercados Internacionales
-            p Aquellas empresas que exportan productos nacionales a otros países como comodities, tales como el café, las naranjas o productos desarrollados y transformados en el país que se venden en mercados externos.
+            p Aquellas empresas que exportan productos nacionales a otros países como <i>comodities</i>, tales como el café, las naranjas o productos desarrollados y transformados en el país que se venden en mercados externos.
 
     p.mb-3(data-aos="zoom-in") Continuando con el objetivo de conocer al cliente, uno de los principales propósitos del <i>marketing</i> con respecto a estos tiene que ver con el cumplimiento de dos objetivos primordiales:
 
@@ -82,7 +82,7 @@
           .tarjeta.color-acento-botones1
             .text-white.p-4
               h2.text-center Atraer clientes nuevos
-              p.text-center Toda empresa que se desarrolle y participe en un mercado debe trabrajar sobre este objetivo diariamente.
+              p.text-center Toda empresa que se desarrolle y participe en un mercado debe trabajar sobre este objetivo diariamente.
       .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/t1/img-4.png' alt='AvatarTop')
@@ -203,7 +203,7 @@
         .row.p-0.m-0
           .col-12.p-0.m-0
             .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/t1/img-12.png')})`, 'background-repeat': 'no-repeat'}").height-card
-              p.mb-3.text-bold Aspectos Conductual
+              p.mb-3.text-bold Aspectos conductual
               ul.lista-ul
                 li.mb-0  
                   i.fas.fa-check.color-acento-botones
@@ -250,7 +250,7 @@
       .col-sm-12.col-md-9
           p.mb-0 Entendida la segmentación, identificar el segmento objetivo se refiere a analizar cuáles son aquellas características que definen ese grupo de personas que comprarán los productos o servicios que ofrecen las empresas, y a partir de allí, establecer estrategias oportunas y eficaces que permitan el encuentro de la demanda y la oferta, con el menor ruido posible, todo en razón de satisfacer sus necesidades y motivar la venta de productos en una relación constante y duradera. En otras palabras, es encontrar un submercado.
         
-    p.mb-5(data-aos="zoom-in") Veamos el siguiente ejemplo: una empresa de eventos que se especializa en bodas requiere conocer su mercado objetivo, por tanto, inicia la identificación de sus clientes potenciales para generar un mejor portafolio de servicios y estrategías de mercadeo: 
+    p.mb-5(data-aos="zoom-in") Veamos el siguiente ejemplo: una empresa de eventos que se especializa en bodas requiere conocer su mercado objetivo, por tanto, inicia la identificación de sus clientes potenciales para generar un mejor portafolio de servicios y estrategias de mercadeo: 
 
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="zoom-in") 
       .row.m-0.align-items-center.justify-content-between

@@ -171,7 +171,7 @@
         img(src='@/assets/curso/t3/img-30.png' alt='AvatarTop')
         .tarjeta.color--acento-contenido-cus.med-cus-ta
           .p-3
-            p Diseñadores gráficos y web.
+            p Diseñadores gráficos y <i>web</i>.
             p Administradores de contenidos digitales.
       .tarjeta-avatar
         img(src='@/assets/curso/t3/img-31.png' alt='AvatarTop')
@@ -202,7 +202,7 @@
       .col-sm-12.col-md-9.mb-mob
           p.mb-3 La creación del portafolio consiste en brindar a los clientes y al mercado la información acerca de quién es la empresa, a qué se dedica y qué ofrece. Se recomienda al organizador crear portafolios creativos y estructurados. 
 
-          p.mb-0 Actualmente, los portafolios pueden ser virtuales, incluso inmersos dentro de la página web corporativa, y además, en muchos casos, se permite que sean descargables, esto para evitar el consumo de papel y los costos que esto representa. Así que solo se requiere de creatividad y ánimo para crear su propio portafolio en internet.
+          p.mb-0 Actualmente, los portafolios pueden ser virtuales, incluso inmersos dentro de la página <i>web</i> corporativa, y además, en muchos casos, se permite que sean descargables, esto para evitar el consumo de papel y los costos que esto representa. Así que solo se requiere de creatividad y ánimo para crear su propio portafolio en <i>internet</i>.
 
       .col-sm-12.col-md-3
         img(src='@/assets/curso/t3/img-6.png', alt='Intro')
@@ -210,7 +210,7 @@
     .row.mb-3.d-flex.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-12
         .cajon.color-acento-contenido.p-4.mt-5
-          p.mb-0 Gracias a la oferta de aplicaciones y #[i software] existentes, actualmente se puede crear una página web corporativa y el portafolio de productos o servicios, ya que permiten diseñar y crear la página web por el mismo organizador de eventos, haciendo uso de plantillas y  formatos guiados muy sencillo. Algunas ofrecen desde un servicio de alojamiento hasta tiendas virtuales listas para vender por internet, solo es cuestión de explorar. 
+          p.mb-0 Gracias a la oferta de aplicaciones y #[i software] existentes, actualmente se puede crear una página <i>web</i> corporativa y el portafolio de productos o servicios, ya que permiten diseñar y crear la página <i>web</i> por el mismo organizador de eventos, haciendo uso de plantillas y  formatos guiados muy sencillo. Algunas ofrecen desde un servicio de alojamiento hasta tiendas virtuales listas para vender por <i>internet</i>, solo es cuestión de explorar. 
     p.text-center.mb-5(data-aos="zoom-in") Dentro de las plataformas más usadas actualmente encontramos:
     SlyderA(tipo="b").color-primario.px-cus-5.py-5.mb-5(data-aos="zoom-in")
       .px-cus-5.py-2.text-center
@@ -229,7 +229,7 @@
         h4 www.godaddy.com 
         img(src='@/assets/curso/t3/img-35.png', alt='Intro')
 
-    p.mb-5(data-aos="zoom-in") A continuación, se presentan algunas herramientas de internet que permiten diseñar de manera sencilla y fácil, bien sea anuncios, manejo de publicaciones en redes sociales, portafolios, <i>posters</i>, invitaciones, tarjetas, entre muchas otras acciones que le permiten mejorar la productividad y ahorrar costos al organizador de eventos.
+    p.mb-5(data-aos="zoom-in") A continuación, se presentan algunas herramientas de <i>internet</i> que permiten diseñar de manera sencilla y fácil, bien sea anuncios, manejo de publicaciones en redes sociales, portafolios, <i>posters</i>, invitaciones, tarjetas, entre muchas otras acciones que le permiten mejorar la productividad y ahorrar costos al organizador de eventos.
     p.text-center.mb-5(data-aos="zoom-in") Entre las más usadas se encuentran:
     
     SlyderA(tipo="b").color-primario.px-cus-5.py-5.mb-5(data-aos="zoom-in")

@@ -86,7 +86,7 @@
         img(src='@/assets/curso/t2/img-3.png', alt='Intro').img3-tm2
       .col-sm-12.col-md-7.bg-color-primario.m-0.p-0.d-flex.justify-content-center.align-items-center
         .bg-color-white.p-3.m-4
-          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al marketing en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar neuromarketing, las empresas pueden llegar a conocer a sus consumidores y sus deseos no manifestados, ir al fondo de por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, al escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
+          p.mb-0 Consiste en aplicar las técnicas de la neurociencia al <i>marketing</i> en general, con el fin de analizar y conocer con más detalle diferentes aspectos de la toma de decisiones en el momento de la compra por parte de las personas. Al aplicar <i>neuromarketing</i>, las empresas pueden llegar a conocer a sus consumidores y sus deseos no manifestados, ir al fondo de por qué compran, qué les atrae de una marca, con qué la relacionan al mirarla, al escuchar el nombre, entre muchos otros factores que sirven para que cada vez más las marcas se relacionen de manera más objetiva con las personas, y logren conectarse con su ADN.
 
 
     .row.mt-5

@@ -153,27 +153,27 @@ export default {
         'Sigla de ácido desoxirribonucleico, proteína compleja que se encuentra en el núcleo de las células y constituye el principal constituyente del material genético de los seres vivos. Oxford Language. (2022) Definición de ADN. https://languages.oup.com/google-dictionary-es/ ',
     },
     {
-      termino: 'Business to Business',
+      termino: '<i>Business to Business</i>',
       significado:
         'En español de negocio a negocio, es un modelo de transmisión de información en la red relacionado con las transacciones comerciales que las empresas realizan.',
     },
     {
-      termino: 'Business to consumer',
+      termino: '<i>Business to consumer</i>',
       significado:
         'En español de negocio a consumidor, es un tipo de práctica existente en el ámbito del marketing. Esta, habitualmente, es empleada por firmas comerciales que persiguen llegar de manera directa a un cliente o consumidor final.',
     },
     {
-      termino: 'Buyer Persona',
+      termino: '<i>Buyer</i> Persona',
       significado:
-        'Representación ficticia de un cliente ideal muy utilizado en marketing digital.',
+        'Representación ficticia de un cliente ideal muy utilizado en <i>marketing</i> digital.',
     },
     {
-      termino: 'Catering',
+      termino: '<i>Catering</i>',
       significado:
-        'Servicio que consiste en elaborar y/o servir bebidas y alimentos en un evento, un lugar público o un medio de transporte. Pérez Port, J. Merino, M (2018). Definiciones: Definición de catering (https://definicion.de/catering/)',
+        'Servicio que consiste en elaborar y/o servir bebidas y alimentos en un evento, un lugar público o un medio de transporte. Pérez Port, J. Merino, M (2018). Definiciones: Definición de <i>catering</i> (https://definicion.de/catering/)',
     },
     {
-      termino: 'Chat',
+      termino: '<i>Chat</i>',
       significado:
         'Sistema de comunicación en tiempo real que se realiza entre varios usuarios, cuyos dispositivos están conectados a una red, generalmente internet; los usuarios escriben mensajes en su teclado y el texto aparece automáticamente y al instante en el monitor de todos los participantes.',
     },
@@ -188,7 +188,7 @@ export default {
         'Sistema o método que se desarrolla para ejecutar un plan y obtener un objetivo en particular. El término también se usa para nombrar a la habilidad para aplicar dicho sistema. Pérez Port, J. Gardey. A (2021). Definición de: (https://definicion.de/tactica/) ',
     },
     {
-      termino: 'Marketing mix',
+      termino: '<i>Marketing mix</i>',
       significado:
         'Análisis de estrategia de aspectos internos y desarrollada comúnmente por las empresas. Se tienen en cuenta cuatro variables principales del negocio: producto, precio, distribución y promoción.',
     },
@@ -198,7 +198,7 @@ export default {
         'Especialidad científica que se dedica al estudio integral del sistema nervioso, teniendo en cuenta sus funciones, su estructura y otros aspectos. De este modo ayuda a explicar diversas características de la conducta y de los procesos cognitivos a través de la biología. Pérez Porto, J. Gardey, A. (2022). Definición de: https://definicion.de/neurociencia/ ',
     },
     {
-      termino: 'Página web',
+      termino: 'Página <i>web</i>',
       significado:
         'Conjunto de información que se encuentra en una dirección determinada de internet.',
     },
